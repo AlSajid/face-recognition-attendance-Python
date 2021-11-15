@@ -10,3 +10,5 @@ This simple desktop application will allow you to compare faces with given photo
 - This app tries to capture continuous shots through the camera until it finds a matching face.
 - It matches your face with the given photo samples.
 - If it matches, the app records your attendance instantly.
+
+*Database file is missing :( (sorry)
